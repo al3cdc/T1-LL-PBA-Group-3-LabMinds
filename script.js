@@ -26,3 +26,4 @@ lockoutPanel.addEventListener('mouseleave', () => gauge.classList.remove('charge
 const header = document.getElementById("drop-header");
 const content = document.getElementById("drop-content");
 const items = document.querySelectorAll(".drop-item");
+
